@@ -1,1 +1,1 @@
-This folder includes python and R markdown files for projects completed at Syracuse University. For projects completed in group, only portions completed individually are included.
+This folder includes python and R markdown files for projects completed at Syracuse University when pursuing the Master of Applied Data Science degree. For projects completed in group, only portions completed individually are included.
